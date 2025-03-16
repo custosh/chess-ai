@@ -1,0 +1,6 @@
+train: C:/Users/Admin/Pictures/dataset_maker/data/images/train
+val: C:/Users/Admin/Pictures/dataset_maker/data/images/val
+test: C:/Users/Admin/Pictures/dataset_maker/data/images/test  # Необов'язково
+
+nc: 14  # Кількість класів
+names: ['b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'w1', 'w2', 'w3', 'w4', 'w5', 'w6', 'bg', 'chess_table']

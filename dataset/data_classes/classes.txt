@@ -1,0 +1,14 @@
+b1
+b2
+b3
+b4
+b5
+b6
+w1
+w2
+w3
+w4
+w5
+w6
+bg
+chess_table
